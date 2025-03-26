@@ -1,0 +1,6 @@
+[submodule "itmo-operating-systems-lab2"]
+	path = itmo-operating-systems-lab2
+	url = https://github.com/JABAN111/itmo-operating-systems-lab2.git
+[submodule "itmo-operating-systems-lab1"]
+	path = itmo-operating-systems-lab1
+	url = https://github.com/JABAN111/itmo-operating-systems-lab1.git
